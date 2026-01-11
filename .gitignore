@@ -1,3 +1,4 @@
 dist/
 src/math_utils/__pycache__/
 tests/__pycache__/
+.coverage
